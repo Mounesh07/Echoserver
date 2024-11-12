@@ -1,4 +1,4 @@
-# EX-1.Echoserver
+# EX-1 Echoserver
 ## Date:
 Echo server and client using python socket
 # AIM:
